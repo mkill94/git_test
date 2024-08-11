@@ -1,1 +1,1 @@
-# git_test
+print(Hello world)
